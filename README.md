@@ -89,8 +89,6 @@ sns.displot(x ="BMI", data = df)
 ```
 ![image](https://github.com/madhi43/ODD2023-DataScience-Ex-03/assets/103943383/19eb9c26-4c2d-4733-aeef-a6e4105fccdc)
 
-
-![image](https://github.com/madhi43/ODD2023-DataScience-Ex-03/assets/103943383/6724dfce-cf65-45f6-85eb-62da05649320)
 ```
 
 sns.displot(x ="DiabetesPedigreeFunction", data = df)
